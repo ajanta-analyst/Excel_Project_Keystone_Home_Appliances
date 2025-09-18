@@ -7,7 +7,7 @@ A single-page Excel dashboard for a retailer that compares **Selected Year vs Ot
 ## Dashboard
 - **Dashboard (view/download):** _https://drive.google.com/file/d/1ZQLyQXW-sFxwCd3TEtSre_CJNm42ciEY/view?usp=drive_link_
 
-https://github.com/ajanta-analyst/Excel_Project_Keystone_Home_Appliances/issues/1#issue-3428153003
+![Image](https://github.com/user-attachments/assets/1aa84a67-dffc-420b-98d5-a183ef9b4693)
 
 
 ## Table of Contents
